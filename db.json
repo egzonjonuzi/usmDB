@@ -6,6 +6,7 @@
   ],
   "users": [
     { "id": 1, "username": "Egzon", "password": "123456", "firstName": "Egzon", "lastName": "Jonuzi" },
-    { "id": 1, "username": "Armend", "password": "123456", "firstName": "Armend", "lastName": "Hyseni" }
+    { "id": 1, "username": "Armend", "password": "123456", "firstName": "Armend", "lastName": "Hyseni" },
+    { "id": 1, "username": "Shpend", "password": "123456", "firstName": "Shpend", "lastName": "Bajgora" }
   ]
 }
